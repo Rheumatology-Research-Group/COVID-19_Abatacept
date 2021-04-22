@@ -10,13 +10,13 @@ We have recently provided suggestive epidemiological evidence that rheumatic pat
 
 ## Link to the paper
 
-The manuscript can be found here https://arxiv.org/abs/2005.10055
+The manuscript can be found here [2005.10055](https://arxiv.org/abs/2005.10055)
 
 ## Important Links
 
 Raw RNA-sequencing data from the abatacept-treated patients will be deposited in the GEO database.
 
-RNA-Sequencing pipeline for PBMCs from COVID-19 patients is available at the original authors repository: https://github.com/zhouyulab/ncov/ 
+RNA-Sequencing pipeline for PBMCs from COVID-19 patients is available at the original authors repository: [zhouyulab/ncov](https://github.com/zhouyulab/ncov/)
 
 scRNA-Sequencing data from BALF samples from COVID-19 patients and healthy controls was downloadded from GEO accession number [GSE145926](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145926)
 
@@ -42,7 +42,4 @@ The analyses comparing abatacept transcriptome to COVID-19 curated processes and
 
 The following packages were used:
 
-```python
-shiny_1.4.0.2, edgeR_3.28.1, limma_3.42.2, fgsea_1.12.0, Rcpp_1.0.3, gridExtra_2.3, ggplot2_3.3.0, prabclus_2.3-2, mclust_5.4.6, MASS_7.3-51.6, eulerr_6.1.0, corrplot_0.84, metap_1.3, GO.db_3.10.0, org.Hs.eg.db_3.10.0, AnnotationDbi_1.48.0, IRanges_2.20.2, S4Vectors_0.24.4, Biobase_2.46.0, BiocGenerics_0.32.0, DeconCell_0.1.0, Seurat_3.1.5, sctransform_0.2.1, hdf5r_1.3.2
-
-``` 
+`shiny_1.4.0.2`, `edgeR_3.28.1`, `limma_3.42.2`, `fgsea_1.12.0`, `Rcpp_1.0.3`, `gridExtra_2.3`, `ggplot2_3.3.0`, `prabclus_2.3-2`, `mclust_5.4.6`, `MASS_7.3-51.6`, `eulerr_6.1.0`, `corrplot_0.84`, `metap_1.3`, `GO.db_3.10.0`, `org.Hs.eg.db_3.10.0`, `AnnotationDbi_1.48.0`, `IRanges_2.20.2`, `S4Vectors_0.24.4`, `Biobase_2.46.0`, `BiocGenerics_0.32.0`, `DeconCell_0.1.0`, `Seurat_3.1.5`, `sctransform_0.2.1` and `hdf5r_1.3.2`.
