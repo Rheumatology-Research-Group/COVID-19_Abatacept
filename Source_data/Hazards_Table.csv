@@ -1,0 +1,10 @@
+SubgroupH	Subgroup	NoOfPatients	HazardRatio	HazardLower	HazardUpper	Pvalue
+ABS Score						
+	High	15	1	1	1	1
+	Low	26	0.216	0.05	0.87	0.031
+Age						
+	<59	17	1	1	1	1
+	>59	24	3.36	0.83	13.6	0.089
+Gender						
+	Female	16	1	1	1	1
+	Male	25	0.4	0.14	1.15	0.091
