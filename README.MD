@@ -14,7 +14,7 @@ The manuscript can be found here [2005.10055](https://arxiv.org/abs/2005.10055)
 
 ## Important Links
 
-Raw RNA-sequencing data from the abatacept-treated patients will be deposited in the GEO database.
+Raw RNA-sequencing data from the abatacept-treated patients are available in the GEO database: [GSE151161](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE151161)
 
 RNA-Sequencing pipeline for PBMCs from COVID-19 patients is available at the original authors repository: [zhouyulab/ncov](https://github.com/zhouyulab/ncov/)
 
