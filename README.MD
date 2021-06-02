@@ -10,7 +10,7 @@ We have recently provided suggestive epidemiological evidence that rheumatic pat
 
 ## Link to the paper
 
-The manuscript can be found here [2005.10055](https://arxiv.org/abs/2005.10055)
+The manuscript "Targeting of the CD80/86 proinflammatory axis as a therapeutic strategy to prevent severe COVID-19" can be found here [s41598-021-90797-0](https://www.nature.com/articles/s41598-021-90797-0)
 
 ## Important Links
 
